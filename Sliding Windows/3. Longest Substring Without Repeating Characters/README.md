@@ -1,6 +1,6 @@
 # 3. Longest Substring Without Repeating Characters
 
-### MEDIUM
+#### MEDIUM
 
 https://leetcode.com/problems/longest-substring-without-repeating-characters/description/
 
