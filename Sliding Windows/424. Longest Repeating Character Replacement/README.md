@@ -1,5 +1,7 @@
 # 424. Longest Repeating Character Replacement
 
+### MEDIUM
+
 https://leetcode.com/problems/longest-repeating-character-replacement/
 
 ## Solution

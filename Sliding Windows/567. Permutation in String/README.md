@@ -1,5 +1,7 @@
 # 567. Permutation in String
 
+### MEDIUM
+
 https://leetcode.com/problems/permutation-in-string/description/
 
 ## Solution
