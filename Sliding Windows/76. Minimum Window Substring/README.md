@@ -8,7 +8,7 @@ https://leetcode.com/problems/minimum-window-substring/description/
 
 This question can be solved using a similiar pattern to 567. Permutation in String. We can turn the characters we are looking for in t into a character frequency map.
 
-#### Evaluating a single substring
+#### Evaluating a Single Substring
 
 If we have a substring "ADOBEC" and we want to know if t="ABC" is valid for such substring, how we would solve it? The frequency map for t looks like something like this:
 
