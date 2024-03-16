@@ -24,7 +24,7 @@ In order for the substring "ADOBEC" to be valid, we have to make sure all the fr
 
 Now that we have an idea on how to evaluate a single substring, we can add a sliding window to find the minimum window that is valid for the t_map. The idea is to keep track of the windows frequency map as you check windows. So if we have two pointers keeping track of the window, we must iterate the right pointer until the substring is valid. Then we can continously iterate the left pointer until our window is no longer valid. We can repeat this operation until the right pointer reaches the end of string s and return the minimum valid window we found.
 
-Why does this work?  
+<u>Why does this work?</u>  
 Rather than looking at every single substring, we only look for substrings that are valid. Then we try to minimize the actual size of the substring by shifting the left pointer. This results in O(N) time complexity algorithm that will be able to find the minimum window.
 
 #### Slight Optimization to Validating Substring
