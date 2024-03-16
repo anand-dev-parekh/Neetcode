@@ -4,7 +4,7 @@ Personal write ups for neetcode 150
 
 Arrays & Hashing: 0/9
 Two Pointers: 3/5
-Sliding Window: 4/6
+Sliding Window: 5/6
 Stack: 0/7
 Binary Search: 0/7
 Linked List: 0/11
