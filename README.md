@@ -1,8 +1,8 @@
 # Neetcode
 
-Personal write ups for neetcode 150
+Personal write ups for neetcode 150. I solve in most of my questions in Python, java, and C++.
 
-Arrays & Hashing: 0/9
+Arrays & Hashing: 3/9
 
 Two Pointers: 3/5
 
