@@ -12,11 +12,11 @@ This question can be solved using a similiar pattern to 567. Permutation in Stri
 
 If we have a substring "ADOBEC" and we want to know if t="ABC" is valid for such substring, how we would solve it? The frequency map for t looks like something like this:
 
-t_map = {
-A: 1,
-B: 1,
-C: 1
-}
+t_map = {  
+A: 1,  
+B: 1,  
+C: 1  
+}  
 
 In order for the substring "ADOBEC" to be valid, we have to make sure all the frequencies in the substrings character:frequency map are >= the frequencies in t_map.
 
