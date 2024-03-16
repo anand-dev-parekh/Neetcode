@@ -19,4 +19,4 @@ Advanced Graphs: 0/6
 Greedy: 0/8  
 Intervals: 0/6  
 Math & Geometry: 0/8  
-Bit Manipulation: 0/  
+Bit Manipulation: 0/7  
