@@ -13,4 +13,4 @@ We will remove each pair inner to outer
 
 ({()}[]) -> ({}[]) -> ([]) -> () ->
 
-We can mimick this behaviour using a stack. So, if we iterate all the characters, everytime we hit a opening bracket we will add it to our stack. Then, when we hit a closing bracket, from our statement above, there MUST be the corresponding opening bracket at the top of the stack. So, can pop it off and check. At the end, if the stack's length is 0, that means it was valid since every opening bracket found a corresponding closing bracket and we can return true!
+We can mimick this behaviour using a stack. So, if we iterate all the characters, everytime we hit a opening bracket we will add it to our stack. Then, when we hit a closing bracket, from our statement above, there MUST be the corresponding opening bracket at the top of the stack. So, we can pop it off and return false if they do not correspond. At the end, if the stack's length is 0, that means it was valid since every opening bracket found a corresponding closing bracket and we can return true!
