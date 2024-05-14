@@ -8,9 +8,9 @@ Two Pointers: 3/5
 
 Sliding Window: 5/6
 
-Stack: 3/7
+Stack: 4/7
 
-Binary Search: 0/7
+Binary Search: 2/7
 
 Linked List: 0/11
 
