@@ -10,7 +10,7 @@ Sliding Window: 5/6
 
 Stack: 4/7
 
-Binary Search: 2/7
+Binary Search: 3/7
 
 Linked List: 0/11
 
