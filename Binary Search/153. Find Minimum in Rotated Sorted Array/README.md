@@ -1,4 +1,4 @@
-# 153. Find Minimum in Sorted Rotated Array
+# 153. Find Minimum in Rotated Sorted Array
 
 ### Medium
 

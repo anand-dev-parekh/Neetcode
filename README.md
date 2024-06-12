@@ -12,7 +12,7 @@ Stack: 4/7
 
 Binary Search: 5/7
 
-Linked List: 2/11
+Linked List: 3/11
 
 Trees: 0/15
 
