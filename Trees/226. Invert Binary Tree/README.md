@@ -19,11 +19,14 @@ This can be better understood with an informal inductive proof. Assume that what
 In this solution, we will traverse the tree in "level order". This is done iteratively using a queue data structure. This can be broken into _ simple steps
 
 1. Add root to queue
-2. While queue is not empty: 
+2. While queue is not empty:
+
     a. pop MRU node
+   
     b. swap children node pointers
+   
     c. append children nodes to queue
-3. return root
+4. return root
 
 *An important thing to note is if the node added is None, you must skip it in the while loop.
 
