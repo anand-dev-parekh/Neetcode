@@ -14,7 +14,7 @@ Binary Search: 6/7
 
 Linked List: 8/11
 
-Trees: 10/15
+Trees: 12/15
 
 Tries: 0/3
 
