@@ -14,13 +14,13 @@ Binary Search: 6/7
 
 Linked List: 8/11
 
-Trees: 12/15
+Trees: 14/15
 
-Tries: 0/3
-
-Heap / Priority Queue: 0/7
+Heap / Priority Queue: 2/7
 
 Backtracking: 0/9
+
+Tries: 0/3
 
 Graphs: 0/13
 
