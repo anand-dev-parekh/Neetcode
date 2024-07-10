@@ -16,7 +16,7 @@ Linked List: 8/11
 
 Trees: 14/15
 
-Heap / Priority Queue: 3/7
+Heap / Priority Queue: 4/7
 
 Backtracking: 0/9
 
