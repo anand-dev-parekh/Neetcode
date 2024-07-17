@@ -26,7 +26,7 @@ Graphs: 0/13
 
 Advanced Graphs: 0/6
 
-1-D Dynamic Programming: 0/12
+1-D Dynamic Programming: 5/12
 
 2-D Dynamic Programming: 0/11
 
