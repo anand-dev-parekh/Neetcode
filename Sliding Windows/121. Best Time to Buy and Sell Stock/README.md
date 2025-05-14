@@ -1,4 +1,4 @@
-# 424. Longest Repeating Character Replacement
+# 121. Best Time to Buy and Sell Stock
 
 #### EASY
 
