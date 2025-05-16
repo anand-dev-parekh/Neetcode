@@ -4,11 +4,11 @@ Personal write ups for neetcode 150. I solve in most of my questions in Python, 
 
 Arrays & Hashing: 8/9
 
-Two Pointers: 3/5
+Two Pointers: 5/5
 
 Sliding Window: 5/6
 
-Stack: 4/7
+Stack: 5/7
 
 Binary Search: 6/7
 
