@@ -8,7 +8,7 @@ Two Pointers: 5/5
 
 Sliding Window: 6/6
 
-Stack: 5/7
+Stack: 7/7
 
 Binary Search: 6/7
 
