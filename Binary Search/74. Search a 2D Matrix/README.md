@@ -10,4 +10,3 @@ This is exactly the same as 704 Binary Search, however, now the array is 2D. Thi
 
             row_i = m // row_size
             col_i = m - row_size * row_i
-
