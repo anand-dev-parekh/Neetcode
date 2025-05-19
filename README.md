@@ -20,7 +20,7 @@ Heap / Priority Queue: 4/7
 
 Backtracking: 0/9
 
-Tries: 2/3
+Tries: 3/3
 
 Graphs: 0/13
 
