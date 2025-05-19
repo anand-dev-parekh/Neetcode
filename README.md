@@ -36,4 +36,4 @@ Intervals: 0/6
 
 Math & Geometry: 0/8
 
-Bit Manipulation: 0/7
+Bit Manipulation: 3/7
