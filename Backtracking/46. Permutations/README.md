@@ -4,7 +4,7 @@
 
 https://leetcode.com/problems/permutations/description/
 
-## Solutions
+## Solution
 
 This question is also very similiar to "39. Combination Sum", "40. Combination Sum II", "90. Subsets II". Except obviously, this time we are looking for all permutations. We need all possible orderings, so in each recursive call, we cannot simply iterate the indices that appear after our current index and make recursive calls.
 
