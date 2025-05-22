@@ -18,7 +18,7 @@ Trees: 14/15
 
 Heap / Priority Queue: 4/7
 
-Backtracking: 5/9
+Backtracking: 7/9
 
 Tries: 3/3
 
