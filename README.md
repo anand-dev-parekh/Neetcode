@@ -26,7 +26,7 @@ Graphs: 0/13
 
 Advanced Graphs: 0/6
 
-1-D Dynamic Programming: 8/12
+1-D Dynamic Programming: 9/12
 
 2-D Dynamic Programming: 0/11
 
@@ -36,4 +36,4 @@ Intervals: 0/6
 
 Math & Geometry: 0/8
 
-Bit Manipulation: 3/7
+Bit Manipulation: 5/7
