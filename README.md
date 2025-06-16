@@ -30,7 +30,7 @@ Advanced Graphs: 0/6
 
 2-D Dynamic Programming: 0/11
 
-Greedy: 0/8
+Greedy: 2/8
 
 Intervals: 0/6
 
